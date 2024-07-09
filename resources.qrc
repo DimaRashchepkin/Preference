@@ -1,0 +1,45 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resources/icon.ico</file>
+    <file>resources/background.png</file>
+    <file>resources/Jacket.png</file>
+    <file>resources/Deck.png</file>
+    <file>resources/Table.png</file>
+
+    <file>resources/Clubs 7.png</file>
+    <file>resources/Clubs 8.png</file>
+    <file>resources/Clubs 9.png</file>
+    <file>resources/Clubs 10.png</file>
+    <file>resources/Clubs 11.png</file>
+    <file>resources/Clubs 12.png</file>
+    <file>resources/Clubs 13.png</file>
+    <file>resources/Clubs 14.png</file>
+
+    <file>resources/Diamonds 7.png</file>
+    <file>resources/Diamonds 8.png</file>
+    <file>resources/Diamonds 9.png</file>
+    <file>resources/Diamonds 10.png</file>
+    <file>resources/Diamonds 11.png</file>
+    <file>resources/Diamonds 12.png</file>
+    <file>resources/Diamonds 13.png</file>
+    <file>resources/Diamonds 14.png</file>
+
+    <file>resources/Hearts 7.png</file>
+    <file>resources/Hearts 8.png</file>
+    <file>resources/Hearts 9.png</file>
+    <file>resources/Hearts 10.png</file>
+    <file>resources/Hearts 11.png</file>
+    <file>resources/Hearts 12.png</file>
+    <file>resources/Hearts 13.png</file>
+    <file>resources/Hearts 14.png</file>
+
+    <file>resources/Spades 7.png</file>
+    <file>resources/Spades 8.png</file>
+    <file>resources/Spades 9.png</file>
+    <file>resources/Spades 10.png</file>
+    <file>resources/Spades 11.png</file>
+    <file>resources/Spades 12.png</file>
+    <file>resources/Spades 13.png</file>
+    <file>resources/Spades 14.png</file>
+</qresource>
+</RCC>

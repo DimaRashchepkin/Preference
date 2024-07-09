@@ -1,0 +1,29 @@
+<data>
+    <First>
+        <Bullet>0</Bullet>
+        <Whists>
+            <First>0</First>
+            <Second>0</Second>
+            <Third>0</Third>
+        </Whists>
+        <Mount>0</Mount>
+    </First>
+    <Second>
+        <Bullet>0</Bullet>
+        <Whists>
+            <First>0</First>
+            <Second>0</Second>
+            <Third>0</Third>
+        </Whists>
+        <Mount>20</Mount>
+    </Second>
+    <Third>
+        <Bullet>0</Bullet>
+        <Whists>
+            <First>0</First>
+            <Second>0</Second>
+            <Third>0</Third>
+        </Whists>
+        <Mount>0</Mount>
+    </Third>
+</data>
